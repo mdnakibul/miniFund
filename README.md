@@ -6,6 +6,8 @@ Whether you're saving up for your first Mac, a new laptop, or any dream tool, th
 
 ![screenshot](./screenshot.png)
 
+### Access it here: [miniFund](https://mdnakibul.github.io/miniFund/)
+
 ---
 
 ## 🚀 Features
